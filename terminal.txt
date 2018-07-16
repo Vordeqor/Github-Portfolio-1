@@ -1,0 +1,6 @@
+Simple Terminal Commands:
+
+cd .. - moves back a directory [cd = change directory]
+mkdir directoryname - creates directory
+touch filename.extension - creates file with associated extension [readme.txt]
+curl -L url >> filename.extension - pulls url and appends to file
